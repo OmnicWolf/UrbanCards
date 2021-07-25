@@ -36,13 +36,42 @@
 ### Object
 - Real Gun x2
 
-_____
-
 
 # Archive
 
-## Partially Successful Random Deck
+## Successful Random Deck (35)
+
+### Biz
+- Corner Restaurant x1
+- Coffee Chain x3
+
+### Workers
+= Wage Slave x1
+- Clueless Intern x1
+- Workaholic Broker x1
+- Maitre x2
+- Salesperson x1
+- Condo King x3
+
+### Henchmen
+- Security Officer x4
+- Angry Bartender x1
+- Bouncer of the Soho x3
+- Devil's Advocate x3
+- White Collar Thief x1
+- Corrupt Cop x4
+
+### Action
+- Taxi x2
+- Nepotism x1
+- Magic Tie x2
+- Fake News x1
+
+
+## Partially Successful Random Deck (40)
 Worked for all battles except The Government.
+
+The Government's Gun Control is the most difficult card to deal with. Deck needs more thieves.
 
 ### Biz
 - Startup x1
