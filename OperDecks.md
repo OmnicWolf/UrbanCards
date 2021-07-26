@@ -1,6 +1,6 @@
 # Operations Decks
 
-## Ideal Deck
+## Dream Deck
 
 ### Biz
 - Startup x2
