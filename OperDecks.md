@@ -1,6 +1,6 @@
 # Operations Decks
 
-## Dream Deck
+## Dream Deck (WIP)
 
 ### Biz
 - Startup x2
@@ -46,7 +46,7 @@
 - Coffee Chain x3
 
 ### Workers
-= Wage Slave x1
+- Wage Slave x1
 - Clueless Intern x1
 - Workaholic Broker x1
 - Maitre x2
@@ -79,7 +79,7 @@ The Government's Gun Control is the most difficult card to deal with. Deck needs
 - Condominium x1
 
 ### Workers
-= Wage Slave x1
+- Wage Slave x1
 - Clueless Intern x3
 - Maitre x2
 - Salesperson x2
