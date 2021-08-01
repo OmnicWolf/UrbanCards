@@ -1,104 +1,29 @@
 # Operations Decks
 
-## Dream Deck (WIP)
+## Achievement Decks
 
-### Biz
-- Startup x2
-- Corner Restaurant x3
-- Condominium x2
+### Successful Random Run
 
-### Workers
-- Wage Slave x1
-- Clueless Intern x3
-- Workaholic Broker x1
-- Maitre x2
-- Salesperson x2
-- Sharkman x3
-- Condo King x1
-
-### Henchmen
-- Security Officer x4
-- **Telephone Seller x2**
-- Angry Bartender x3
-- **Bouncer of the Soho x5**
-- **Employee of the Month x2**
-- **Devil's Advocate x2**
-- Nicky x1
-
-### Action
-- Tip x1
-- Inheritance x1
-- Taxi x1
-- **Magic Tie x5**
-- **Money Laundering x1**
-- **Fake News x2**
-
-### Object
-- Real Gun x2
+| Biz | Worker | Henchmen | Action | Object|
+| --- | --- | --- | --- | --- |
+| 1x Corner Restaurant | 1x Wage Slave | 4x Security Officer | 2x Taxi |  |
+| 3x Coffee Chain | 1x Clueless Intern | 1x Angry Bartender | 1x Nepotism |  |
+|  | 1x Workaholic Broker | 3x Bouncer of the Soho | 2x Magic Tie |  |
+|  | 2x Maitre | 3x Devil's Advocate | 1x Fake News |  |
+|  | 1x Salesperson | 1x White Collar Thief |  |  |
+|  | 3x Condo King | 4x Corrupt Cop |  |  |
 
 
-# Archive
-
-## Successful Random Deck (35)
-
-### Biz
-- Corner Restaurant x1
-- Coffee Chain x3
-
-### Workers
-- Wage Slave x1
-- Clueless Intern x1
-- Workaholic Broker x1
-- Maitre x2
-- Salesperson x1
-- Condo King x3
-
-### Henchmen
-- Security Officer x4
-- Angry Bartender x1
-- Bouncer of the Soho x3
-- Devil's Advocate x3
-- White Collar Thief x1
-- Corrupt Cop x4
-
-### Action
-- Taxi x2
-- Nepotism x1
-- Magic Tie x2
-- Fake News x1
-
-
-## Partially Successful Random Deck (40)
+### Partially Successful Random Run
 Worked for all battles except The Government.
 
 The Government's Gun Control is the most difficult card to deal with. Deck needs more thieves.
 
-### Biz
-- Startup x1
-- Corner Restaurant x4
-- Condominium x1
-
-### Workers
-- Wage Slave x1
-- Clueless Intern x3
-- Maitre x2
-- Salesperson x2
-- Sharkman x1
-- Condo King x1
-
-### Henchmen
-- Security Officer x4
-- Angry Bartender x3
-- Bouncer of the Soho x5
-- Employee of the Month x1
-- Devil's Advocate x1
-- Nicky x1
-
-### Action
-- Tip x1
-- Inheritance x1
-- Magic Tie x3
-- Money Laundering x1
-
-### Object
-- Real Gun x1
+| Biz | Worker | Henchmen | Action | Object|
+| --- | --- | --- | --- | --- |
+| 1x Startup | 1x Wage Slave | 4x Security Officer | 1x Tip | 1x Real Gun |
+| 4x Corner Restaurant | 3x Clueless Intern | 3x Angry Bartender | 1x Inheritance |  |
+| 1x Condominium | 2x Maitre | 5x Bouncer of the Soho | 3x Magic Tie |  |
+|  | 2x Salesperson | 1x Employee of the Month | 1x Money Laundering |  |
+|  | 1x Sharkman | 1x Devil's Advocate |  |  |
+|  | 1x Condo King | 1x Nicky |  |  |
