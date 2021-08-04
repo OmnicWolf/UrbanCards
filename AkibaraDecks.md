@@ -2,7 +2,7 @@
 
 ## Achievement Decks
 
-### Successful Gamers Run
+### Gamers Run
 - First Akibara run through so cards were limited. Not an ideal deck, but it worked.
 
 | Biz | Worker | Henchmen | Action |
@@ -14,7 +14,7 @@
 |  | 1x Famous Streamer | 3x F2P Whale |  |
 |  |  | 1x Bill Dotcom |  |
 
-### Successful Devs Run
+### Devs Run
 | Biz | Worker | Henchmen | Action | Object|
 | --- | --- | --- | --- | --- |
 | 2x After Hours | 1x IT Guy | 1x Troll | 3x Crowdfunding | 1x Real Gun |
@@ -25,7 +25,7 @@
 |  |  | 2x F2P Whale |  |  |
 |  |  | 4x Bill Dotcom |  |  |
 
-### Successful Trolls Run
+### Trolls Run
 | Biz | Worker | Henchmen | Action | Object|
 | --- | --- | --- | --- | --- |
 | 2x Parts Shop | 1x IT Guy | 2x Troll | 1x Teletransport | 1x Real Gun |
