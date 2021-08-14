@@ -20,4 +20,6 @@
     - Inventor Ep 3: Defeated the Jester with full health
 - Aug 13 – Completed Inventor Episodes 4-6
     - Earned _Inflict 30 Poison_ in Bonus Round
-    - Inventor complete
+- Aug 14 – Completed Inventor Hard Mode Bonus Round
+    - Hatched EGG during Buster boss battle
+    - Inventor complete ^.^
